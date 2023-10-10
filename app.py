@@ -1,6 +1,6 @@
 from pathlib import Path
 from beaker import *
-from typing import Literal
+from typing import *
 from beaker.lib.storage import BoxMapping
 from pyteal import *
 
